@@ -1,0 +1,12 @@
+// Fellipe Cera de Oliveira 
+public class exercicio10 {
+public static void main(String[] args){
+
+double lado = 350.0;
+
+double area = lado * lado;
+
+System.out.println("A  área do quadrado é "+ area);
+}
+    
+}
